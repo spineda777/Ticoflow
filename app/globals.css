@@ -1,8 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 body {
-  background-color: #f8fafc;
-  color: #0f172a;
+  margin: 0;
+  padding: 0;
+  background-color: #060D16;
+  color: #E8F5E9;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
 }
